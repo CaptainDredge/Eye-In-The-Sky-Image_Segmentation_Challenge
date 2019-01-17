@@ -1,0 +1,10 @@
+torch
+tensorboardX
+tensorflow
+scikit-image
+scikit-learn
+tifffile
+skimage
+numpy 
+argparse
+gflags
