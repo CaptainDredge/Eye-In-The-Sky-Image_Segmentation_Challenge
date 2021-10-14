@@ -1,6 +1,6 @@
 # Eye In The Sky
 
-Winning code of Eye In The Sky Satellite image segmentation Competetion as a part of Inter-IIT tech meet hosted by IIT Bombay. 
+Winning code of Eye In The Sky Satellite image segmentation Competition as a part of Inter-IIT tech meet hosted by IIT Bombay. 
 ## Prerequisites
 
 ```json
